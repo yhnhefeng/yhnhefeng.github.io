@@ -6,31 +6,15 @@
     <description>hefeng&#34;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 21:55:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 22:08:07 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hua</title>
-      <link>http://localhost:1313/posts/9ce8c43/</link>
-      <pubDate>Mon, 09 Dec 2024 21:55:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/9ce8c43/</guid>
-      <category domain="http://localhost:1313/categories/draft/">Draft</category>
-      <description>&lt;p&gt;Hgahgjdglkajr!1&lt;/p&gt;&#xA;&lt;p&gt;f s d f s d上的粉丝sds&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/10efd1f/</link>
-      <pubDate>Mon, 09 Dec 2024 21:24:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/10efd1f/</guid>
-      <category domain="http://localhost:1313/categories/draft/">Draft</category>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/583bc6c/</link>
-      <pubDate>Mon, 09 Dec 2024 21:20:53 +0800</pubDate>
-      <guid>http://localhost:1313/posts/583bc6c/</guid>
-      <category domain="http://localhost:1313/categories/draft/">Draft</category>
-      <description></description>
+      <title>蓝桥杯国赛wp</title>
+      <link>http://localhost:1313/posts/60970db/</link>
+      <pubDate>Mon, 09 Dec 2024 22:08:07 +0800</pubDate>
+      <guid>http://localhost:1313/posts/60970db/</guid>
+      <category domain="http://localhost:1313/categories/talk/">Talk</category>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/2.png&#34; alt=&#34;1&#34; srcset=&#34;http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/2.png?size=small, http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/2.png?size=medium 1.5x, http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/2.png?size=large 2x&#34; data-title=&#34;1&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/QQ20241209-220740.png&#34; alt=&#34;1&#34; srcset=&#34;http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/QQ20241209-220740.png?size=small, http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/QQ20241209-220740.png?size=medium 1.5x, http://localhost:1313/img/2024/12/%e8%93%9d%e6%a1%a5%e6%9d%af%e5%9b%bd%e8%b5%9bwp/QQ20241209-220740.png?size=large 2x&#34; data-title=&#34;1&#34; style=&#34;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
