@@ -6,8 +6,16 @@
     <description>hefeng&#34;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 21:24:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 21:55:45 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hua</title>
+      <link>http://localhost:1313/posts/9ce8c43/</link>
+      <pubDate>Mon, 09 Dec 2024 21:55:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/9ce8c43/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>&lt;p&gt;Hgahgjdglkajr!1&lt;/p&gt;&#xA;&lt;p&gt;f s d f s d上的粉丝sds&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/posts/10efd1f/</link>
