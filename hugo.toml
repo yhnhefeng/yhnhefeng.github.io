@@ -43,7 +43,7 @@ defaultContentLanguage = "zh-cn"
 
 [params]
   [params.author]
-    name = ""
-    email = ""
+    name = "yhnhefeng"
+    email = "1603538747@qq.com"
     link = ""
     avatar = ""
