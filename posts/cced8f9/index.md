@@ -10,5 +10,5 @@
 ---
 
 > 作者: hefeng  
-> URL: https://example.org/posts/cced8f9/  
+> URL: https://yhnhefeng.github.io/posts/cced8f9/  
 
