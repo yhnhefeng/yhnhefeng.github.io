@@ -6,7 +6,15 @@
     <description>hefeng&#39;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 14:46:14 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first_answer</title>
+      <link>https://example.org/posts/cced8f9/</link>
+      <pubDate>Tue, 10 Dec 2024 14:46:14 +0800</pubDate>
+      <guid>https://example.org/posts/cced8f9/</guid>
+      <category domain="https://example.org/categories/draft/">Draft</category>
+      <description>&lt;p&gt;这个是我的第一篇题解  以后这个将用来记录我自己的成长&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

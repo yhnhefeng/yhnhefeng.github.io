@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Draft - 分类 - hefeng&#34;s blog</title>
-    <link>http://localhost:1313/categories/draft/</link>
-    <description>hefeng&#34;s blog</description>
+    <title>Draft - 分类 - hefeng&#39;s blog</title>
+    <link>https://example.org/categories/draft/</link>
+    <description>hefeng&#39;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 14:46:14 +0800</lastBuildDate>
+    <atom:link href="https://example.org/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first_answer</title>
+      <link>https://example.org/posts/cced8f9/</link>
+      <pubDate>Tue, 10 Dec 2024 14:46:14 +0800</pubDate>
+      <guid>https://example.org/posts/cced8f9/</guid>
+      <category domain="https://example.org/categories/draft/">Draft</category>
+      <description>My_first_answer</description>
+    </item>
   </channel>
 </rss>
