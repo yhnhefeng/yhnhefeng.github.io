@@ -9,3 +9,20 @@ defaultContentLanguage = 'zh-cn'
   _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
+  [params]
+  [params.app]
+    name = ""
+    shortName = ""
+    noFavicon = false
+    svgFavicon = ""
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+    [params.app.themeColor]
+      light = "#f8f8f8"
+      dark = "#252627"
+
+  [params.pace]
+    enable = true
+    color = "red"
+    theme = "dark"
+      
