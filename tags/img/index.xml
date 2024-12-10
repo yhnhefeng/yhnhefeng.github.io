@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Img - 标签 - hefeng&#34;s blog</title>
+    <title>Img - 标签 - hefeng&#39;s blog</title>
     <link>http://localhost:1313/tags/img/</link>
-    <description>hefeng&#34;s blog</description>
+    <description>hefeng&#39;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 22:08:07 +0800</lastBuildDate>

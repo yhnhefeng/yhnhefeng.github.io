@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - hefeng&#34;s blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>hefeng&#34;s blog</description>
+    <title>所有文章 - hefeng&#39;s blog</title>
+    <link>https://example.org/posts/</link>
+    <description>hefeng&#39;s blog</description>
     <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 22:08:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>蓝桥杯国赛wp</title>
-      <link>http://localhost:1313/posts/60970db/</link>
-      <pubDate>Mon, 09 Dec 2024 22:08:07 +0800</pubDate>
-      <guid>http://localhost:1313/posts/60970db/</guid>
-      <category domain="http://localhost:1313/categories/talk/">Talk</category>
-      <description>testI am good</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
