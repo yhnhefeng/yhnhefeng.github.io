@@ -10,6 +10,9 @@ defaultContentLanguage = "zh-cn"
   _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
+  category = "categories"
+  tag = "tags"
+  collection = "collections"
 
 [menu]
   [[menu.main]]
@@ -37,3 +40,10 @@ defaultContentLanguage = "zh-cn"
       type = ""
       # FixIt 0.3.9 | 新增 是否显示子菜单项分割线
       divided = false
+
+[params]
+  [params.author]
+    name = ""
+    email = ""
+    link = ""
+    avatar = ""
