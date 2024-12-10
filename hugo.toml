@@ -1,35 +1,20 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = "https://yhnhefeng.github.io/"
+languageCode = "en-us"
 title = "hefeng's blog"
-theme = 'FixIt'
-defaultContentLanguage = 'zh-cn'
+theme = "FixIt"
+defaultContentLanguage = "zh-cn"
+
 [markup]
   _merge = "shallow"
 [outputs]
   _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
-  [params]
-  [params.app]
-    name = ""
-    shortName = ""
-    noFavicon = false
-    svgFavicon = ""
-    iconColor = "#5bbad5"
-    tileColor = "#da532c"
-    [params.app.themeColor]
-      light = "#f8f8f8"
-      dark = "#252627"
-
-  [params.pace]
-    enable = true
-    color = "red"
-    theme = "dark"
 
 [menu]
   [[menu.main]]
     identifier = ""
-    #  父级菜单项的标识符 (identifier)
+    # FixIt 0.2.14 | 新增 父级菜单项的标识符 (identifier)
     parent = ""
     # 你可以在名称（允许 HTML 格式）之前添加其他信息，例如图标
     pre = ""
@@ -40,16 +25,15 @@ defaultContentLanguage = 'zh-cn'
     # 当你将鼠标悬停在此菜单链接上时，将显示的标题
     title = ""
     weight = 1
-    #  向菜单项添加用户定义的内容
+    # FixIt 0.2.14 | 新增 向菜单项添加用户定义的内容
     [menu.main.params]
       # 添加 CSS 类到菜单项
       class = ""
       # 是否为草稿菜单，类似草稿页面
       draft = false
-      #  添加 fontawesome 图标到菜单项
+      # FixIt 0.2.16 | 新增 添加 fontawesome 图标到菜单项
       icon = ""
-      #  设置菜单项类型，可选值：["mobile", "desktop"]
+      # FixIt 0.2.16 | 新增 设置菜单项类型，可选值：["mobile", "desktop"]
       type = ""
-      #  是否显示子菜单项分割线
+      # FixIt 0.3.9 | 新增 是否显示子菜单项分割线
       divided = false
-      
