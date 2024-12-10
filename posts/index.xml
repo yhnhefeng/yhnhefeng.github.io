@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>所有文章 - hefeng&#39;s blog</title>
+    <link>https://yhnhefeng.github.io/posts/</link>
+    <description>hefeng&#39;s blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 14:46:14 +0800</lastBuildDate>
+    <atom:link href="https://yhnhefeng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first_answer</title>
+      <link>https://yhnhefeng.github.io/posts/cced8f9/</link>
+      <pubDate>Tue, 10 Dec 2024 14:46:14 +0800</pubDate>
+      <guid>https://yhnhefeng.github.io/posts/cced8f9/</guid>
+      <category domain="https://yhnhefeng.github.io/categories/draft/">Draft</category>
+      <description>My_first_answer</description>
+    </item>
+  </channel>
+</rss>

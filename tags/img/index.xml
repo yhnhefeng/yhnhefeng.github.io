@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Img - 标签 - hefeng&#39;s blog</title>
+    <link>http://localhost:1313/tags/img/</link>
+    <description>hefeng&#39;s blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 22:08:07 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/img/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01背包问题</title>
+      <link>http://localhost:1313/posts/60970db/</link>
+      <pubDate>Mon, 09 Dec 2024 22:08:07 +0800</pubDate>
+      <guid>http://localhost:1313/posts/60970db/</guid>
+      <category domain="http://localhost:1313/categories/talk/">Talk</category>
+      <description>test I am good</description>
+    </item>
+  </channel>
+</rss>
