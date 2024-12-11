@@ -47,3 +47,15 @@ defaultContentLanguage = "zh-cn"
     email = "1603538747@qq.com"
     link = ""
     avatar = ""
+
+
+    [params.recentlyUpdated]
+    archives = true
+    section = true
+    list = true
+    days = 30
+    maxCount = 10
+
+
+
+
